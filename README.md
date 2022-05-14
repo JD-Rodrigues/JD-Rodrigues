@@ -2,7 +2,7 @@
 
 Estudante de desenvolvimento web.
 
-Atualmente, estou focado em obter um domínio sólido de HTML, CSS e JavaScript, para brevemente iniciar o aprendizado de React, visando implementar minhas melhores soluções front-end no mercado de trabalho. 
+Atualmente, estou focado em obter um domínio sólido de HTML, CSS e JavaScript, para brevemente iniciar o aprendizado de React, visando criar aplicações e solucionar problemas de front-end no mercado de trabalho. 
 
 ### Tecnologias:
 <a href="#"><img src='https://github.com/JD-Rodrigues/Estudos-web-dev/blob/0a6786428b0fff40d09cf9c075d935ef29634799/images/html-5%20(1).png'></a> <a href="#"><img src='https://github.com/JD-Rodrigues/Estudos-web-dev/blob/0a6786428b0fff40d09cf9c075d935ef29634799/images/css-3%20(1).png'></a> <a href="#"><img src="https://github.com/JD-Rodrigues/Estudos-web-dev/blob/0a6786428b0fff40d09cf9c075d935ef29634799/images/js%20(1).png"></a> 
