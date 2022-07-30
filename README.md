@@ -2,7 +2,7 @@
 
 Estudante de desenvolvimento web.
 
-Atualmente, estou React Node, visando criar aplicações, desenvolver competências em resolver problemas e entrar no mercado de desenvolvimento. 
+Atualmente, estou estudando React e Node, visando criar aplicações, desenvolver competências em resolver problemas e entrar no mercado de desenvolvimento. 
 
 ### Tecnologias:
 <a href="#"><img src='https://github.com/JD-Rodrigues/Estudos-web-dev/blob/6e6fdaac63a3abdcd333ba83b220ef080aa62b5a/images/react.png'></a> <a href="#"><img src='https://github.com/JD-Rodrigues/Estudos-web-dev/blob/6e6fdaac63a3abdcd333ba83b220ef080aa62b5a/images/node.png'></a> 
