@@ -2,7 +2,7 @@
 
 Desenvolvedor web front-end migrando da área da educação.
 
-Tenho desenvolvido aplicações e interfaces para a web, sob demanda.
+Tenho desenvolvido aplicações e interfaces para a web.
 
 Aprendizado é o que me move. Encaro cada desafio como uma oportunidade de obter e compartilhar conhecimento. 
 
