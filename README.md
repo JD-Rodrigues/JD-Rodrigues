@@ -1,8 +1,11 @@
 # Sobre mim:
 
-Estudante de desenvolvimento web.
+Desenvolvedor web front-end migrando da área da educação.
 
-Atualmente, estou estudando React e Node, visando criar aplicações, desenvolver competências em resolver problemas e entrar no mercado de desenvolvimento. 
+Tenho desenvolvido aplicações e interfaces para a web, sob demanda.
+
+Aprendizado é o que me move. Encaro cada desafio como uma oportunidade de obter e compartilhar conhecimento. 
+
 
 ### Tecnologias:
 <a href="#"><img width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>
