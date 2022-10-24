@@ -12,7 +12,7 @@ Aprendizado é o que me move. Encaro cada desafio como uma oportunidade de obter
 <a href="#"><img width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>
 <a href="#"><img width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'></a>
 <a href="#"><img src='https://github.com/JD-Rodrigues/Estudos-web-dev/blob/6e6fdaac63a3abdcd333ba83b220ef080aa62b5a/images/react.png'></a>
-<a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></a>
+<a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 
 
 
