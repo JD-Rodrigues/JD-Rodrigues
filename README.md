@@ -2,9 +2,7 @@
 
 Desenvolvedor web front-end.
 
-Tenho desenvolvido aplicações e interfaces para a web.
-
-Aprendizado é o que me move. Encaro cada desafio como uma oportunidade de obter e compartilhar conhecimento. 
+Tenho desenvolvido aplicações e interfaces para a web utilizando React, Typescript, NextJs, Jest etc.
 
 
 ### Tecnologias:
