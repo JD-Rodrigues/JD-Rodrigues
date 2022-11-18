@@ -1,6 +1,6 @@
 # Sobre mim:
 
-Desenvolvedor web front-end migrando da área da educação.
+Desenvolvedor web front-end.
 
 Tenho desenvolvido aplicações e interfaces para a web.
 
