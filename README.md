@@ -2,7 +2,7 @@
 
 Desenvolvedor web front-end.
 
-Tenho desenvolvido aplicações e interfaces para a web utilizando React, Typescript, NextJs, Jest etc.
+Atualmente desenvolvendo aplicações e interfaces para a web utilizando React, Typescript, NextJs, Sass, Jest etc.
 
 
 ### Tecnologias:
