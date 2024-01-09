@@ -1,8 +1,11 @@
 # Sobre mim:
 
-Desenvolvedor web front-end.
+Desenvolvedor web full-stack.
 
-Atualmente desenvolvendo aplicações e interfaces para a web utilizando React, Typescript, NextJs, Sass, Jest etc.
+Tenho desenvolvido frontend com foco em responsividade e interfaces pixel perfect, utilizando:
+JavaScript | Typescript | React | NextJS | Sass
+
+Tenho desenvolvido backend com habilidades utilizando: PHP | Laravel | MySQL | Docker.
 
 
 ### Tecnologias:
