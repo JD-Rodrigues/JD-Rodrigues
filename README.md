@@ -5,7 +5,7 @@ Desenvolvedor web full-stack.
 Tenho desenvolvido frontend com foco em responsividade e interfaces pixel perfect, utilizando:
 JavaScript | Typescript | React | NextJS | Sass
 
-Tenho desenvolvido backend com habilidades utilizando: PHP | Laravel | MySQL | Docker.
+NO back-end, trabalho com: PHP | Laravel | MySQL | Docker.
 
 
 ### Tecnologias:
